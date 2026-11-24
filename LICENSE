@@ -1,0 +1,42 @@
+Copyright (c) 2026 KOHANTIC LLC. All rights reserved.
+
+rustwake, its code and its art, belong to KOHANTIC LLC. No part of it may be copied,
+changed, published or used without KOHANTIC LLC's written permission, except as the law
+allows.
+
+KOHANTIC LLC lets anyone download rustwake's releases, from usr.games or from
+github.com/usrgames/rustwake.6, install them and play them, free of charge. That is all it
+allows: not to sell them, to share copies of them anywhere else, or to change them.
+
+rustwake is given as it is, with no promise of any kind, and KOHANTIC LLC is not liable for
+any harm that comes of using it, as far as the law allows.
+
+NOTICES holds the licences of Go and of the modules rustwake is built from. They are their
+authors', and every release ships them.
+
+Every version of this repository before this licence, the release v0.1.0 among them, was
+published under the MIT License below, and stays under it.
+
+--------------------------------------------------------------------------------
+
+MIT License
+
+Copyright (c) 2026 Kyro Kohan
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
